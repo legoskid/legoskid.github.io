@@ -34,6 +34,7 @@ What you see on whale.x10.mx now is the final WH4LE. Now let's host it.
 # Requirements
 * Know how to upload files to your hosting provider
 * Not have view source and save page as blocked
+
 Difficulty: Easy
 # ACTUALLY DOING IT
 View the page source for http://whale.x10.mx, copy all of it and save it to a file called index.html (don't use save page as)
