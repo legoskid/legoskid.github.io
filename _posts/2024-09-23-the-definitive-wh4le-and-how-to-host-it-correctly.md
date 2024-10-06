@@ -28,7 +28,7 @@ Idk at this point: whale.x10.mx domain expires
 
 9-7-2024: Original 12-20-2023 version up without the banner, still no file-download.html
 
-9-23-2024 (today): Loading.gif replaced (not the original one) and file-download.html found
+9-23-2024 (today): ~~Loading.gif replaced (not the original one)~~ *Found it Wh4le is updated now* and file-download.html found
 # The Definitive WH4LE
 What you see on whale.x10.mx now is the final WH4LE. Now let's host it.
 # Requirements
